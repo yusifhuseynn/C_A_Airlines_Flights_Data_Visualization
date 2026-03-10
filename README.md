@@ -1,5 +1,5 @@
 Data Visualization
-This project is completed as part of the CodeAlpha Data Analytics Internship for Task 3: Data Visualization.
+This project is completed as part of the CodeAlpha Data Analytics : Data Visualization.
 
 ## 📌 Project Objective
 The objective of this project is to **analyze airline ticket prices and present them visually**. 
