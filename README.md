@@ -1,5 +1,4 @@
-"""
-CodeAlpha Task 3 - Data Visualization
+Data Visualization
 This project is completed as part of the CodeAlpha Data Analytics Internship for Task 3: Data Visualization.
 
 ## 📌 Project Objective
